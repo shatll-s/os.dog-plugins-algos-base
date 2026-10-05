@@ -1,0 +1,2359 @@
+{
+  "package": "os.dog-plugins-algos-base",
+  "description": "Base algorithms database for OS.Dog",
+  "version": "1.0.0",
+  "algorithms": [
+    {
+      "x": 1,
+      "algo": "0x10",
+      "dualAlgo": false,
+      "description": "0x10 (ChainOX)"
+    },
+    {
+      "x": 1000000,
+      "algo": "abel",
+      "dualAlgo": false,
+      "description": "Abel (Abelian)"
+    },
+    {
+      "x": 1,
+      "algo": "aergo",
+      "dualAlgo": false,
+      "description": "Aergo (SWAP)"
+    },
+    {
+      "x": 1,
+      "algo": "aleph",
+      "dualAlgo": false,
+      "description": "aleph"
+    },
+    {
+      "x": 1,
+      "algo": "alephium",
+      "dualAlgo": false,
+      "description": "Alephium/blake3 (ALPH)"
+    },
+    {
+      "x": 1,
+      "algo": "allium",
+      "dualAlgo": false,
+      "description": "Allium (TUX)"
+    },
+    {
+      "x": 1,
+      "algo": "anime",
+      "dualAlgo": false,
+      "description": "Anime [Quark-based] (AnimeCoin)"
+    },
+    {
+      "x": 1,
+      "algo": "argon2/chukwa",
+      "dualAlgo": false,
+      "description": "argon2/chukwa"
+    },
+    {
+      "x": 1,
+      "algo": "argon2/chukwav2",
+      "dualAlgo": false,
+      "description": "argon2/chukwav2"
+    },
+    {
+      "x": 1,
+      "algo": "argon2/ninja",
+      "dualAlgo": false,
+      "description": "argon2/ninja"
+    },
+    {
+      "x": 1,
+      "algo": "argon2_chukwa",
+      "dualAlgo": false,
+      "description": "Argon2id (Chukwa)"
+    },
+    {
+      "x": 1,
+      "algo": "argon2_wrkz",
+      "dualAlgo": false,
+      "description": "Argon2id (WRKZ)"
+    },
+    {
+      "x": 1,
+      "algo": "argon2d",
+      "dualAlgo": false,
+      "description": "Argon2d (DYN, KPL, NIM)"
+    },
+    {
+      "x": 1,
+      "algo": "argon2d250",
+      "dualAlgo": false,
+      "description": "Argon2d250 (ZMY, CRDS)"
+    },
+    {
+      "x": 1,
+      "algo": "argon2d4096",
+      "dualAlgo": false,
+      "description": "Argon2d4096 (XMY)"
+    },
+    {
+      "x": 1,
+      "algo": "argon2d_16000",
+      "dualAlgo": false,
+      "description": "argon2d_16000"
+    },
+    {
+      "x": 1,
+      "algo": "argon2d_dyn",
+      "dualAlgo": false,
+      "description": "Argon2d/dyn (DYN)"
+    },
+    {
+      "x": 1,
+      "algo": "argon2d_dynamic",
+      "dualAlgo": false,
+      "description": "argon2d_dynamic"
+    },
+    {
+      "x": 1,
+      "algo": "argon2id_chukwa2",
+      "dualAlgo": false,
+      "description": "argon2id_chukwa2"
+    },
+    {
+      "x": 1,
+      "algo": "argon2id_exfer",
+      "dualAlgo": false,
+      "description": "argon2id_exfer"
+    },
+    {
+      "x": 1,
+      "algo": "argon2id_ninja",
+      "dualAlgo": false,
+      "description": "argon2id_ninja"
+    },
+    {
+      "x": 1,
+      "algo": "astralhash",
+      "dualAlgo": false,
+      "description": "Astralhash (GLT)"
+    },
+    {
+      "x": 1,
+      "algo": "astrobwt",
+      "dualAlgo": false,
+      "description": "Astrobwt"
+    },
+    {
+      "x": 1,
+      "algo": "astrobwt_v2",
+      "dualAlgo": false,
+      "description": "Astrobwt v2 (DERO-HE)"
+    },
+    {
+      "x": 1000000,
+      "algo": "autolykos2",
+      "dualAlgo": false,
+      "description": "Autolykos2 (ERGO)"
+    },
+    {
+      "x": 1,
+      "algo": "autolykos_zil",
+      "dualAlgo": false,
+      "description": "Autolykos (ERG) + Zil"
+    },
+    {
+      "x": 1,
+      "algo": "axiom",
+      "dualAlgo": false,
+      "description": "Axiom (Shabal-256 based MemoHash)"
+    },
+    {
+      "x": 1,
+      "algo": "balloon",
+      "dualAlgo": false,
+      "description": "Balloon (DEFT)"
+    },
+    {
+      "x": 1,
+      "algo": "balloon_zentoshi",
+      "dualAlgo": false,
+      "description": "balloon_zentoshi"
+    },
+    {
+      "x": 1,
+      "algo": "bastion",
+      "dualAlgo": false,
+      "description": "Bastion (Joincoin)"
+    },
+    {
+      "x": 1,
+      "algo": "bcd",
+      "dualAlgo": false,
+      "description": "Bcd (Bitcoin Diamond)"
+    },
+    {
+      "x": 1,
+      "algo": "beamhash",
+      "dualAlgo": false,
+      "description": "BeamHash AutoSelect"
+    },
+    {
+      "x": 1,
+      "algo": "beamhash1",
+      "dualAlgo": false,
+      "description": "BeamHashI"
+    },
+    {
+      "x": 1,
+      "algo": "beamhash2",
+      "dualAlgo": false,
+      "description": "BeamHashII"
+    },
+    {
+      "x": 1,
+      "algo": "beamhash3",
+      "dualAlgo": false,
+      "description": "beamhashIII"
+    },
+    {
+      "x": 1,
+      "algo": "bfc",
+      "dualAlgo": false,
+      "description": "Bfc (BFC)"
+    },
+    {
+      "x": 1,
+      "algo": "bitcore",
+      "dualAlgo": false,
+      "description": "BitCore (Permuted serie of 10 algos)"
+    },
+    {
+      "x": 1,
+      "algo": "bl2bsha3",
+      "dualAlgo": false,
+      "description": "bl2bsha3"
+    },
+    {
+      "x": 1,
+      "algo": "blake",
+      "dualAlgo": false,
+      "description": "Blake (SFR)"
+    },
+    {
+      "x": 1,
+      "algo": "blake2b",
+      "dualAlgo": false,
+      "description": "Blake2B"
+    },
+    {
+      "x": 1,
+      "algo": "blake2b_btcc",
+      "dualAlgo": false,
+      "description": "Blake2B/btcc"
+    },
+    {
+      "x": 1,
+      "algo": "blake2b_glt",
+      "dualAlgo": false,
+      "description": "Blake2B/glt"
+    },
+    {
+      "x": 1,
+      "algo": "blake2s",
+      "dualAlgo": false,
+      "description": "Blake2S (Kadena)"
+    },
+    {
+      "x": 1,
+      "algo": "blake3_an",
+      "dualAlgo": false,
+      "description": "blake3_an"
+    },
+    {
+      "x": 1,
+      "algo": "blake3_decred",
+      "dualAlgo": false,
+      "description": "blake3_decred"
+    },
+    {
+      "x": 1,
+      "algo": "blake3_ironfish",
+      "dualAlgo": false,
+      "description": "Blake3 (Ironfish)"
+    },
+    {
+      "x": 1,
+      "algo": "bmw",
+      "dualAlgo": false,
+      "description": "BMW (MDT)"
+    },
+    {
+      "x": 1,
+      "algo": "bmw512",
+      "dualAlgo": false,
+      "description": "BMW512 (TBB, XDN)"
+    },
+    {
+      "x": 1,
+      "algo": "btxv4",
+      "dualAlgo": false,
+      "description": "btxv4"
+    },
+    {
+      "x": 1,
+      "algo": "c11",
+      "dualAlgo": false,
+      "description": "C11 (ZOO, AXS)"
+    },
+    {
+      "x": 1,
+      "algo": "c29",
+      "dualAlgo": false,
+      "description": "c29"
+    },
+    {
+      "x": 1,
+      "algo": "chukwa",
+      "dualAlgo": false,
+      "description": "Chukwa [Argon2-based] (TRTL)"
+    },
+    {
+      "x": 1,
+      "algo": "chukwa_wrkz",
+      "dualAlgo": false,
+      "description": "Chukwa/wrkz [Argon2-based]"
+    },
+    {
+      "x": 1,
+      "algo": "circcash",
+      "dualAlgo": false,
+      "description": "circcash"
+    },
+    {
+      "x": 1,
+      "algo": "cn-heavy/0",
+      "dualAlgo": false,
+      "description": "cn-heavy/0"
+    },
+    {
+      "x": 1,
+      "algo": "cn-heavy/tube",
+      "dualAlgo": false,
+      "description": "cn-heavy/tube"
+    },
+    {
+      "x": 1,
+      "algo": "cn-heavy/xhv",
+      "dualAlgo": false,
+      "description": "cn-heavy/xhv"
+    },
+    {
+      "x": 1,
+      "algo": "cn-lite/0",
+      "dualAlgo": false,
+      "description": "cn-lite/0"
+    },
+    {
+      "x": 1,
+      "algo": "cn-lite/1",
+      "dualAlgo": false,
+      "description": "cn-lite/1"
+    },
+    {
+      "x": 1,
+      "algo": "cn-pico/tlo",
+      "dualAlgo": false,
+      "description": "cn-pico/tlo"
+    },
+    {
+      "x": 1,
+      "algo": "cn/ccx",
+      "dualAlgo": false,
+      "description": "cn/ccx"
+    },
+    {
+      "x": 1,
+      "algo": "cn/double",
+      "dualAlgo": false,
+      "description": "cn/double"
+    },
+    {
+      "x": 1,
+      "algo": "cn/fast",
+      "dualAlgo": false,
+      "description": "cn/fast"
+    },
+    {
+      "x": 1,
+      "algo": "cn/half",
+      "dualAlgo": false,
+      "description": "cn/half"
+    },
+    {
+      "x": 1,
+      "algo": "cn/rto",
+      "dualAlgo": false,
+      "description": "cn/rto"
+    },
+    {
+      "x": 1,
+      "algo": "cn/rwz",
+      "dualAlgo": false,
+      "description": "cn/rwz"
+    },
+    {
+      "x": 1,
+      "algo": "cn/xao",
+      "dualAlgo": false,
+      "description": "cn/xao"
+    },
+    {
+      "x": 1,
+      "algo": "cn/zls",
+      "dualAlgo": false,
+      "description": "cn/zls"
+    },
+    {
+      "x": 1,
+      "algo": "cortex",
+      "dualAlgo": false,
+      "description": "Cortex"
+    },
+    {
+      "x": 1,
+      "algo": "cosa",
+      "dualAlgo": false,
+      "description": "Cosa"
+    },
+    {
+      "x": 1,
+      "algo": "cpupower",
+      "dualAlgo": false,
+      "description": "cpupower"
+    },
+    {
+      "x": 1,
+      "algo": "cryptix_ox8",
+      "dualAlgo": false,
+      "description": "cryptix_ox8"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight",
+      "dualAlgo": false,
+      "description": "OLD CryptoNight"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_bbc",
+      "dualAlgo": false,
+      "description": "CryptoNight BBC"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_bbscoin",
+      "dualAlgo": false,
+      "description": "CryptoNight variant (BBSCOIN)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_bittube",
+      "dualAlgo": false,
+      "description": "CryptoNight variant (BitTube)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_bittube2",
+      "dualAlgo": false,
+      "description": "CryptoNight variant (BitTube2)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_cache",
+      "dualAlgo": false,
+      "description": "cryptonight_cache"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_conceal",
+      "dualAlgo": false,
+      "description": "CryptoNight Conceal"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_fast",
+      "dualAlgo": false,
+      "description": "CryptoNight Fast (CCX, MSR)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_fast_v2",
+      "dualAlgo": false,
+      "description": "CryptoNight Fast v2 (Masari)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_gpu",
+      "dualAlgo": false,
+      "description": "CryptoNight-gpu (RYO)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_haven",
+      "dualAlgo": false,
+      "description": "CryptoNight-haven (XHV)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_heavy",
+      "dualAlgo": false,
+      "description": "CryptoNight-heavy (LOKI, HAVEN)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_lite",
+      "dualAlgo": false,
+      "description": "Actual CryptoNight-lite (AEON)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_lite/0",
+      "dualAlgo": false,
+      "description": "Old CryptoNight-lite (AEON)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_lite/1",
+      "dualAlgo": false,
+      "description": "CryptoNight-lite v7 (AEON7, PLE)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_lite/ipbc",
+      "dualAlgo": false,
+      "description": "CryptoNight-lite variant (IPBC)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_pico/tlo",
+      "dualAlgo": false,
+      "description": "CryptoNight-Pico (Talleo)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_r",
+      "dualAlgo": false,
+      "description": "CryptoNight/R (SUMO)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_rto",
+      "dualAlgo": false,
+      "description": "CryptoNight Arto (RTO)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_saber",
+      "dualAlgo": false,
+      "description": "CryptoNight Saber [Modified Heavy] (TUBE)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_superfast",
+      "dualAlgo": false,
+      "description": "CryptoNight Superfast"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_talleo",
+      "dualAlgo": false,
+      "description": "CryptoNight Talleo"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_turtle",
+      "dualAlgo": false,
+      "description": "CryptoNight Turtle (old TRTL)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_upx",
+      "dualAlgo": false,
+      "description": "cryptonight_upx"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_upx2",
+      "dualAlgo": false,
+      "description": "cryptonight_upx2"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_v7",
+      "dualAlgo": false,
+      "description": "CryptoNight v7 (LTHN)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_v7_stellite",
+      "dualAlgo": false,
+      "description": "CryptoNight v7 Stellite"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_v8",
+      "dualAlgo": false,
+      "description": "CryptoNight v8 (GRAFT)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_v8_double",
+      "dualAlgo": false,
+      "description": "CryptoNight v8 double (XCASH, HeavyX)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_v8_half",
+      "dualAlgo": false,
+      "description": "CryptoNight v8 half"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_v8_reversewaltz",
+      "dualAlgo": false,
+      "description": "CryptoNight v8 ReverseWaltz - Graft"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_v8_upx2",
+      "dualAlgo": false,
+      "description": "CryptoNight-UPX [Modified Light/1] (UPX)"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_v8_zelerius",
+      "dualAlgo": false,
+      "description": "CryptoNight v8 Zelerius"
+    },
+    {
+      "x": 1,
+      "algo": "cryptonight_xtl",
+      "dualAlgo": false,
+      "description": "CryptoNight XTL"
+    },
+    {
+      "x": 1,
+      "algo": "cuckaroo29",
+      "dualAlgo": false,
+      "description": "Cuckaroo29 (GRIN29)"
+    },
+    {
+      "x": 1,
+      "algo": "cuckaroo29_48",
+      "dualAlgo": false,
+      "description": "Cuckaroo 29-48 (Italocoin fork)"
+    },
+    {
+      "x": 1,
+      "algo": "cuckaroo29b",
+      "dualAlgo": false,
+      "description": "Cuckaroo29b (Bittube)"
+    },
+    {
+      "x": 1,
+      "algo": "cuckaroo29d",
+      "dualAlgo": false,
+      "description": "CuckarooD29 (GRIN 29 until 16.01.20)"
+    },
+    {
+      "x": 1,
+      "algo": "cuckaroo29s",
+      "dualAlgo": false,
+      "description": "Cuckaroo29s"
+    },
+    {
+      "x": 1,
+      "algo": "cuckaroo29z",
+      "dualAlgo": false,
+      "description": "Cuckaroo29z"
+    },
+    {
+      "x": 1,
+      "algo": "cuckaroo30",
+      "dualAlgo": false,
+      "description": "Cuckaroo30 (Cortex)"
+    },
+    {
+      "x": 1,
+      "algo": "cuckarood29v",
+      "dualAlgo": false,
+      "description": "Cuckarood29v (MoveroV)"
+    },
+    {
+      "x": 1,
+      "algo": "cuckaroom29",
+      "dualAlgo": false,
+      "description": "CuckarooM29  (GRIN 29 after 16.01.20)"
+    },
+    {
+      "x": 1,
+      "algo": "cuckatoo31",
+      "dualAlgo": false,
+      "description": "Cuckatoo31 (GRIN31)"
+    },
+    {
+      "x": 1,
+      "algo": "cuckatoo32",
+      "dualAlgo": false,
+      "description": "Cuckatoo32"
+    },
+    {
+      "x": 1,
+      "algo": "cuckoo24",
+      "dualAlgo": false,
+      "description": "Cuckoo24 (Qitmeer)"
+    },
+    {
+      "x": 1,
+      "algo": "cuckoo29",
+      "dualAlgo": false,
+      "description": "Cuckoo29 (Aeternity)"
+    },
+    {
+      "x": 1,
+      "algo": "cuckoo_ae",
+      "dualAlgo": false,
+      "description": "Cuckoo Cycle (AETERNITY)"
+    },
+    {
+      "x": 1,
+      "algo": "cuckoocycle",
+      "dualAlgo": false,
+      "description": "cuckoocycle"
+    },
+    {
+      "x": 1,
+      "algo": "curvehash",
+      "dualAlgo": false,
+      "description": "curvehash"
+    },
+    {
+      "x": 1,
+      "algo": "dedal",
+      "dualAlgo": false,
+      "description": "Dedal (GLT)"
+    },
+    {
+      "x": 1,
+      "algo": "dmd_gr",
+      "dualAlgo": false,
+      "description": "Diamond-Groestl"
+    },
+    {
+      "x": 1,
+      "algo": "dynamo",
+      "dualAlgo": false,
+      "description": "Dynamo (DYNAMO coin)"
+    },
+    {
+      "x": 1,
+      "algo": "dynex",
+      "dualAlgo": false,
+      "description": "dynex"
+    },
+    {
+      "x": 1,
+      "algo": "dynexsolve",
+      "dualAlgo": false,
+      "description": "DynexSolve (DNX)"
+    },
+    {
+      "x": 1,
+      "algo": "eaglesong",
+      "dualAlgo": false,
+      "description": "EagleSong (CKB)"
+    },
+    {
+      "x": 1,
+      "algo": "equihash",
+      "dualAlgo": false,
+      "description": "Zcash Equihash (now ASIC)"
+    },
+    {
+      "x": 1,
+      "algo": "equihash125_4",
+      "dualAlgo": false,
+      "description": "Equihash 125/4"
+    },
+    {
+      "x": 1,
+      "algo": "equihash144_5",
+      "dualAlgo": false,
+      "description": "Equihash 144/5"
+    },
+    {
+      "x": 1,
+      "algo": "equihash144_5 ANON",
+      "dualAlgo": false,
+      "description": "Equihash 144/5 --pers ANON"
+    },
+    {
+      "x": 1,
+      "algo": "equihash144_5 ASF",
+      "dualAlgo": false,
+      "description": "Equihash 144/5 --pers ASF"
+    },
+    {
+      "x": 1,
+      "algo": "equihash144_5 BTCZ",
+      "dualAlgo": false,
+      "description": "Equihash 144/5 --pers BitcoinZ"
+    },
+    {
+      "x": 1,
+      "algo": "equihash144_5 BTG",
+      "dualAlgo": false,
+      "description": "Equihash 144/5 --pers BTG"
+    },
+    {
+      "x": 1,
+      "algo": "equihash144_5 BTH",
+      "dualAlgo": false,
+      "description": "Equihash 144/5 --pers Bithereum"
+    },
+    {
+      "x": 1,
+      "algo": "equihash144_5 EXCC",
+      "dualAlgo": false,
+      "description": "Equihash 144/5 --pers ExchangeCoin"
+    },
+    {
+      "x": 1,
+      "algo": "equihash144_5 HEPTA",
+      "dualAlgo": false,
+      "description": "Equihash 144/5 --pers Heptacoin"
+    },
+    {
+      "x": 1,
+      "algo": "equihash144_5 LTZ",
+      "dualAlgo": false,
+      "description": "Equihash 144/5 --pers LitecoinZ"
+    },
+    {
+      "x": 1,
+      "algo": "equihash144_5 SAFE",
+      "dualAlgo": false,
+      "description": "Equihash 144/5 --pers SafeCoin"
+    },
+    {
+      "x": 1,
+      "algo": "equihash144_5 XSG",
+      "dualAlgo": false,
+      "description": "Equihash 144/5 --pers SnowGem"
+    },
+    {
+      "x": 1,
+      "algo": "equihash144_5 ZEL",
+      "dualAlgo": false,
+      "description": "Equihash 144/5 --pers Zelcash"
+    },
+    {
+      "x": 1,
+      "algo": "equihash144_5 ZHASH",
+      "dualAlgo": false,
+      "description": "Equihash 144/5 --pers ZHASH"
+    },
+    {
+      "x": 1,
+      "algo": "equihash144_5_excc",
+      "dualAlgo": false,
+      "description": "equihash144_5_excc"
+    },
+    {
+      "x": 1,
+      "algo": "equihash150_5",
+      "dualAlgo": false,
+      "description": "Equihash 150/5 (old BEAM)"
+    },
+    {
+      "x": 1,
+      "algo": "equihash192_7",
+      "dualAlgo": false,
+      "description": "Equihash 192/7"
+    },
+    {
+      "x": 1,
+      "algo": "equihash192_7 GENX",
+      "dualAlgo": false,
+      "description": "Equihash 192/7 --pers Genesis"
+    },
+    {
+      "x": 1,
+      "algo": "equihash192_7 VDL",
+      "dualAlgo": false,
+      "description": "Equihash 192/7 --pers Vdl"
+    },
+    {
+      "x": 1,
+      "algo": "equihash192_7 YEC",
+      "dualAlgo": false,
+      "description": "Equihash 192/7 --pers Yec"
+    },
+    {
+      "x": 1,
+      "algo": "equihash192_7 ZER",
+      "dualAlgo": false,
+      "description": "Equihash 192/7 --pers Zero"
+    },
+    {
+      "x": 1,
+      "algo": "equihash210_9",
+      "dualAlgo": false,
+      "description": "Equihash 210/9"
+    },
+    {
+      "x": 1,
+      "algo": "equihash210_9 AION",
+      "dualAlgo": false,
+      "description": "Equihash 210/9 --pers AION"
+    },
+    {
+      "x": 1,
+      "algo": "equihash96_5",
+      "dualAlgo": false,
+      "description": "Equihash 96/5"
+    },
+    {
+      "x": 1,
+      "algo": "equihash96_5 MNX",
+      "dualAlgo": false,
+      "description": "Equihash 96/5 --pers MNX"
+    },
+    {
+      "x": 1000000,
+      "algo": "etchash",
+      "dualAlgo": false,
+      "description": "Etchash (ETC)"
+    },
+    {
+      "x": 1000000,
+      "algo": "ethash",
+      "dualAlgo": false,
+      "description": "Ethash, DaggerHashimoto (ETH)"
+    },
+    {
+      "x": 1,
+      "algo": "ethash_autolykos2",
+      "dualAlgo": false,
+      "description": "Ethash + Autolykos"
+    },
+    {
+      "x": 1,
+      "algo": "ethash_blake2s",
+      "dualAlgo": false,
+      "description": "Ethash + Blake2s"
+    },
+    {
+      "x": 1,
+      "algo": "ethash_eaglesong",
+      "dualAlgo": false,
+      "description": "Ethash + Eaglesong"
+    },
+    {
+      "x": 1,
+      "algo": "ethash_handshake",
+      "dualAlgo": false,
+      "description": "Ethash + Handshake"
+    },
+    {
+      "x": 1,
+      "algo": "ethash_tensority",
+      "dualAlgo": false,
+      "description": "Ethash + Tensority (BTM)"
+    },
+    {
+      "x": 1,
+      "algo": "ethash_ton",
+      "dualAlgo": false,
+      "description": "Ethash + TON"
+    },
+    {
+      "x": 1,
+      "algo": "ethash_trb",
+      "dualAlgo": false,
+      "description": "Ethash + TRB"
+    },
+    {
+      "x": 1,
+      "algo": "ethash_zil",
+      "dualAlgo": false,
+      "description": "Ethash + Zil"
+    },
+    {
+      "x": 1,
+      "algo": "ethashb3",
+      "dualAlgo": false,
+      "description": "EthashB3 (RTH)"
+    },
+    {
+      "x": 1,
+      "algo": "evohash",
+      "dualAlgo": false,
+      "description": "Evohash (EvoAI)"
+    },
+    {
+      "x": 1,
+      "algo": "evrprogpow",
+      "dualAlgo": false,
+      "description": "Evrprogpow (EVR)"
+    },
+    {
+      "x": 1,
+      "algo": "firopow",
+      "dualAlgo": false,
+      "description": "Firopow/MTP"
+    },
+    {
+      "x": 1,
+      "algo": "fishhash",
+      "dualAlgo": false,
+      "description": "Fishhash"
+    },
+    {
+      "x": 1,
+      "algo": "flex",
+      "dualAlgo": false,
+      "description": "Flex (Kylacoin)"
+    },
+    {
+      "x": 1,
+      "algo": "flux",
+      "dualAlgo": false,
+      "description": "FLUX (Equihash 125/4)"
+    },
+    {
+      "x": 1,
+      "algo": "frkhash",
+      "dualAlgo": false,
+      "description": "Frkhash (Expanse)"
+    },
+    {
+      "x": 1,
+      "algo": "geek",
+      "dualAlgo": false,
+      "description": "Geek (GEEK)"
+    },
+    {
+      "x": 1,
+      "algo": "ghostrider",
+      "dualAlgo": false,
+      "description": "Ghostrider (RTM)"
+    },
+    {
+      "x": 1,
+      "algo": "globalhash",
+      "dualAlgo": false,
+      "description": "glt-GlobalHash"
+    },
+    {
+      "x": 1,
+      "algo": "grimm",
+      "dualAlgo": false,
+      "description": "Grimm"
+    },
+    {
+      "x": 1,
+      "algo": "grin29",
+      "dualAlgo": false,
+      "description": "Actual Grin29 algo"
+    },
+    {
+      "x": 1,
+      "algo": "groestl",
+      "dualAlgo": false,
+      "description": "Groestl"
+    },
+    {
+      "x": 1,
+      "algo": "handshake",
+      "dualAlgo": false,
+      "description": "Handshake"
+    },
+    {
+      "x": 1,
+      "algo": "heavyhash",
+      "dualAlgo": false,
+      "description": "Heavyhash"
+    },
+    {
+      "x": 1000000000,
+      "algo": "heavyhash_pyrin",
+      "dualAlgo": false,
+      "description": "HeavyHash-Pyrin"
+    },
+    {
+      "x": 1,
+      "algo": "hex",
+      "dualAlgo": false,
+      "description": "Hex (XDNA)"
+    },
+    {
+      "x": 1,
+      "algo": "hmq1725",
+      "dualAlgo": false,
+      "description": "HMQ1725 (ESP, BOAT)"
+    },
+    {
+      "x": 1,
+      "algo": "honeycomb",
+      "dualAlgo": false,
+      "description": "HonerComb (BNODE)"
+    },
+    {
+      "x": 1,
+      "algo": "ixi",
+      "dualAlgo": false,
+      "description": "Ixi (Ixian)"
+    },
+    {
+      "x": 1,
+      "algo": "janushash",
+      "dualAlgo": false,
+      "description": "Janushash (Warthog)"
+    },
+    {
+      "x": 1,
+      "algo": "jeonghash",
+      "dualAlgo": false,
+      "description": "Jeonghash (GLT)"
+    },
+    {
+      "x": 1,
+      "algo": "k12",
+      "dualAlgo": false,
+      "description": "k12"
+    },
+    {
+      "x": 1,
+      "algo": "kadena",
+      "dualAlgo": false,
+      "description": "kadena"
+    },
+    {
+      "x": 1000000000,
+      "algo": "karlsenhash",
+      "dualAlgo": false,
+      "description": "Karlsenhash (KLS)"
+    },
+    {
+      "x": 1000000000,
+      "algo": "karlsenhashv2",
+      "dualAlgo": false,
+      "description": "Karlsenhash v2 (KLS)"
+    },
+    {
+      "x": 1000000000,
+      "algo": "kaspa",
+      "dualAlgo": false,
+      "description": "KHeavyHash (Kaspa)"
+    },
+    {
+      "x": 1000000,
+      "algo": "kawpow",
+      "dualAlgo": false,
+      "description": "Kawpow (new Raven)"
+    },
+    {
+      "x": 1,
+      "algo": "keccak",
+      "dualAlgo": false,
+      "description": "Keccak (Deprecated Keccak-256)"
+    },
+    {
+      "x": 1,
+      "algo": "lbry",
+      "dualAlgo": false,
+      "description": "Lbry (LBRY)"
+    },
+    {
+      "x": 1,
+      "algo": "lyra2",
+      "dualAlgo": false,
+      "description": "Lyra2 (CryptoCoin) *ASIC"
+    },
+    {
+      "x": 1,
+      "algo": "lyra2tdc",
+      "dualAlgo": false,
+      "description": "Lyra2tdc (TDCoin)"
+    },
+    {
+      "x": 1,
+      "algo": "lyra2v2",
+      "dualAlgo": false,
+      "description": "Lyra2v2 (MonaCoin)"
+    },
+    {
+      "x": 1,
+      "algo": "lyra2v2_webchain",
+      "dualAlgo": false,
+      "description": "lyra2v2_webchain"
+    },
+    {
+      "x": 1,
+      "algo": "lyra2v3",
+      "dualAlgo": false,
+      "description": "Lyra2v3 (VertCoin)"
+    },
+    {
+      "x": 1,
+      "algo": "lyra2vc0ban",
+      "dualAlgo": false,
+      "description": "LWMA [Lyra2-based] (c0ban)"
+    },
+    {
+      "x": 1,
+      "algo": "lyra2z",
+      "dualAlgo": false,
+      "description": "Lyra2z (ZeroCoin)"
+    },
+    {
+      "x": 1,
+      "algo": "lyra2z330",
+      "dualAlgo": false,
+      "description": "Lyra2z330 algo, Zoin (ZOI)"
+    },
+    {
+      "x": 1,
+      "algo": "lyra2zz",
+      "dualAlgo": false,
+      "description": "Lyra2zz (LPX)"
+    },
+    {
+      "x": 1,
+      "algo": "m7m",
+      "dualAlgo": false,
+      "description": "M7M Magi (XMG)"
+    },
+    {
+      "x": 1,
+      "algo": "megabtx",
+      "dualAlgo": false,
+      "description": "Megabtc (Bitcore)"
+    },
+    {
+      "x": 1000000,
+      "algo": "memehash",
+      "dualAlgo": false,
+      "description": "Memehash (PePePow)"
+    },
+    {
+      "x": 1,
+      "algo": "meowpow",
+      "dualAlgo": false,
+      "description": "meowpow"
+    },
+    {
+      "x": 1,
+      "algo": "meraki",
+      "dualAlgo": false,
+      "description": "meraki"
+    },
+    {
+      "x": 1,
+      "algo": "mike",
+      "dualAlgo": false,
+      "description": "Mike (VKAX)"
+    },
+    {
+      "x": 1,
+      "algo": "minotaur",
+      "dualAlgo": false,
+      "description": "Minotaur algo (RING)"
+    },
+    {
+      "x": 1,
+      "algo": "minotaurx",
+      "dualAlgo": false,
+      "description": "MinotaurX"
+    },
+    {
+      "x": 1,
+      "algo": "monero",
+      "dualAlgo": false,
+      "description": "Actual XMR algo"
+    },
+    {
+      "x": 1,
+      "algo": "mtp",
+      "dualAlgo": false,
+      "description": "Mtp (zcoin/firo before the firopow fork)"
+    },
+    {
+      "x": 1,
+      "algo": "mtp_tcr",
+      "dualAlgo": false,
+      "description": "MTP-tcr"
+    },
+    {
+      "x": 1,
+      "algo": "myr_gr",
+      "dualAlgo": false,
+      "description": "Myriad-Groestl"
+    },
+    {
+      "x": 1,
+      "algo": "neoscrypt",
+      "dualAlgo": false,
+      "description": "Neoscript (FeatherCoin, Phoenix, UFO)"
+    },
+    {
+      "x": 1,
+      "algo": "neoscrypt_xaya",
+      "dualAlgo": false,
+      "description": "Neoscript XAYA"
+    },
+    {
+      "x": 1,
+      "algo": "nexa",
+      "dualAlgo": false,
+      "description": "nexa"
+    },
+    {
+      "x": 1000000,
+      "algo": "nexapow",
+      "dualAlgo": false,
+      "description": "Nexapow (NEX)"
+    },
+    {
+      "x": 1,
+      "algo": "nimiq",
+      "dualAlgo": false,
+      "description": "Nimiq"
+    },
+    {
+      "x": 1,
+      "algo": "nist5",
+      "dualAlgo": false,
+      "description": "NIST5 (TalkCoin) *ASIC"
+    },
+    {
+      "x": 1,
+      "algo": "noid",
+      "dualAlgo": false,
+      "description": "noid"
+    },
+    {
+      "x": 1,
+      "algo": "nxlhash",
+      "dualAlgo": false,
+      "description": "nxlhash"
+    },
+    {
+      "x": 1000000,
+      "algo": "octopus",
+      "dualAlgo": false,
+      "description": "Octopus (Conflux)"
+    },
+    {
+      "x": 1,
+      "algo": "oggpow",
+      "dualAlgo": false,
+      "description": "oggpow"
+    },
+    {
+      "x": 1,
+      "algo": "olhash",
+      "dualAlgo": false,
+      "description": "Olhash"
+    },
+    {
+      "x": 1,
+      "algo": "padihash",
+      "dualAlgo": false,
+      "description": "Padihash (GLT)"
+    },
+    {
+      "x": 1,
+      "algo": "panthera",
+      "dualAlgo": false,
+      "description": "panthera"
+    },
+    {
+      "x": 1,
+      "algo": "pawelhash",
+      "dualAlgo": false,
+      "description": "Pawelhash (GLT)"
+    },
+    {
+      "x": 1,
+      "algo": "pearlhash",
+      "dualAlgo": false,
+      "description": "pearlhash"
+    },
+    {
+      "x": 1,
+      "algo": "penta",
+      "dualAlgo": false,
+      "description": "Pentablake hash (5x Blake 512)"
+    },
+    {
+      "x": 1,
+      "algo": "phi",
+      "dualAlgo": false,
+      "description": "Phi (old LUX)"
+    },
+    {
+      "x": 1,
+      "algo": "phi1612",
+      "dualAlgo": false,
+      "description": "LUX initial algo, for Seraph"
+    },
+    {
+      "x": 1,
+      "algo": "phi2",
+      "dualAlgo": false,
+      "description": "Phi2 (LUX with lyra2)"
+    },
+    {
+      "x": 1,
+      "algo": "phi5",
+      "dualAlgo": false,
+      "description": "phi5"
+    },
+    {
+      "x": 1,
+      "algo": "phichox",
+      "dualAlgo": false,
+      "description": "phichox"
+    },
+    {
+      "x": 1,
+      "algo": "phihash",
+      "dualAlgo": false,
+      "description": "phihash"
+    },
+    {
+      "x": 1,
+      "algo": "pipe",
+      "dualAlgo": false,
+      "description": "Pipe (UOU)"
+    },
+    {
+      "x": 1,
+      "algo": "polytimos",
+      "dualAlgo": false,
+      "description": "Polytimos (POLY)"
+    },
+    {
+      "x": 1,
+      "algo": "poscan",
+      "dualAlgo": false,
+      "description": "poscan"
+    },
+    {
+      "x": 1,
+      "algo": "power2b",
+      "dualAlgo": false,
+      "description": "Power2b"
+    },
+    {
+      "x": 1,
+      "algo": "prime",
+      "dualAlgo": false,
+      "description": "Prime (XPM)"
+    },
+    {
+      "x": 1,
+      "algo": "progpow",
+      "dualAlgo": false,
+      "description": "ProgPoW (SERO)"
+    },
+    {
+      "x": 1,
+      "algo": "progpow_epic",
+      "dualAlgo": false,
+      "description": "ProgPoW-Epic (EPIC)"
+    },
+    {
+      "x": 1,
+      "algo": "progpow_veil",
+      "dualAlgo": false,
+      "description": "ProgPoW-Veil (Veil)"
+    },
+    {
+      "x": 1,
+      "algo": "progpow_zano",
+      "dualAlgo": false,
+      "description": "progpow_zano"
+    },
+    {
+      "x": 1,
+      "algo": "progpowz",
+      "dualAlgo": false,
+      "description": "ProgPoWZ (Zano)"
+    },
+    {
+      "x": 1,
+      "algo": "progpowz092",
+      "dualAlgo": false,
+      "description": "ProgPoW-Rev.0.9.2 (Hydnora, Sero, Abassian)"
+    },
+    {
+      "x": 1,
+      "algo": "pufferfish2bmb",
+      "dualAlgo": false,
+      "description": "pufferfish2bmb (BMB - Bamboo)"
+    },
+    {
+      "x": 1,
+      "algo": "pyrinhash",
+      "dualAlgo": false,
+      "description": "pyrinhash"
+    },
+    {
+      "x": 1000000000,
+      "algo": "pyrinhashv2",
+      "dualAlgo": false,
+      "description": "Pyrinhash v2 (Pyrin)"
+    },
+    {
+      "x": 1,
+      "algo": "qhash",
+      "dualAlgo": false,
+      "description": "qhash"
+    },
+    {
+      "x": 1,
+      "algo": "qitmeer",
+      "dualAlgo": false,
+      "description": "qitmeer"
+    },
+    {
+      "x": 1,
+      "algo": "qitmeer-blake2bd",
+      "dualAlgo": false,
+      "description": "Qitmeer-blake2bd"
+    },
+    {
+      "x": 1,
+      "algo": "qitmeer-cuckaroo",
+      "dualAlgo": false,
+      "description": "Qitmeer-cuckaroo"
+    },
+    {
+      "x": 1,
+      "algo": "qitmeer-cuckaroom29",
+      "dualAlgo": false,
+      "description": "Qitmeer-cuckaroom29"
+    },
+    {
+      "x": 1,
+      "algo": "qitmeer-cuckatoo",
+      "dualAlgo": false,
+      "description": "Qitmeer-cuckatoo"
+    },
+    {
+      "x": 1,
+      "algo": "qrl",
+      "dualAlgo": false,
+      "description": "Quantum Resistant Lefger (QRL)"
+    },
+    {
+      "x": 1,
+      "algo": "quantus",
+      "dualAlgo": false,
+      "description": "quantus"
+    },
+    {
+      "x": 1,
+      "algo": "quark",
+      "dualAlgo": false,
+      "description": "Quark (Quarkcoin) *ASIC"
+    },
+    {
+      "x": 1,
+      "algo": "qubit",
+      "dualAlgo": false,
+      "description": "Qubit (GeoCoin) *ASIC"
+    },
+    {
+      "x": 1,
+      "algo": "qureno",
+      "dualAlgo": false,
+      "description": "Qureno (x33...xxx)"
+    },
+    {
+      "x": 1,
+      "algo": "radiant",
+      "dualAlgo": false,
+      "description": "radiant"
+    },
+    {
+      "x": 1,
+      "algo": "randomalpha",
+      "dualAlgo": false,
+      "description": "randomalpha"
+    },
+    {
+      "x": 1,
+      "algo": "randomarq",
+      "dualAlgo": false,
+      "description": "randomarq"
+    },
+    {
+      "x": 1,
+      "algo": "randomc64",
+      "dualAlgo": false,
+      "description": "randomc64"
+    },
+    {
+      "x": 1,
+      "algo": "randomdrgx",
+      "dualAlgo": false,
+      "description": "randomdrgx"
+    },
+    {
+      "x": 1,
+      "algo": "randomepic",
+      "dualAlgo": false,
+      "description": "randomepic"
+    },
+    {
+      "x": 1,
+      "algo": "randomgraft",
+      "dualAlgo": false,
+      "description": "randomgraft"
+    },
+    {
+      "x": 1,
+      "algo": "randomhash",
+      "dualAlgo": false,
+      "description": "RandomHash (old Pascal)"
+    },
+    {
+      "x": 1,
+      "algo": "randomhash2",
+      "dualAlgo": false,
+      "description": "RandomHash2 (Pascal)"
+    },
+    {
+      "x": 1,
+      "algo": "randomjuno",
+      "dualAlgo": false,
+      "description": "randomjuno"
+    },
+    {
+      "x": 1,
+      "algo": "randoml",
+      "dualAlgo": false,
+      "description": "RandomL (LOZZ)"
+    },
+    {
+      "x": 1,
+      "algo": "randomnevo",
+      "dualAlgo": false,
+      "description": "RandomNevo (Nevocoin)"
+    },
+    {
+      "x": 1,
+      "algo": "randompcn",
+      "dualAlgo": false,
+      "description": "randompcn"
+    },
+    {
+      "x": 1,
+      "algo": "randomscash",
+      "dualAlgo": false,
+      "description": "randomscash"
+    },
+    {
+      "x": 1,
+      "algo": "randomsfx",
+      "dualAlgo": false,
+      "description": "randomsfx"
+    },
+    {
+      "x": 1,
+      "algo": "randomsnap",
+      "dualAlgo": false,
+      "description": "randomsnap"
+    },
+    {
+      "x": 1,
+      "algo": "randomvirel",
+      "dualAlgo": false,
+      "description": "randomvirel"
+    },
+    {
+      "x": 1,
+      "algo": "randomwow",
+      "dualAlgo": false,
+      "description": "randomwow"
+    },
+    {
+      "x": 1,
+      "algo": "randomx",
+      "dualAlgo": false,
+      "description": "RandomX (Monero)"
+    },
+    {
+      "x": 1,
+      "algo": "randomx_arq",
+      "dualAlgo": false,
+      "description": "RandomARQ (RandomX variant for ArQmA)"
+    },
+    {
+      "x": 1,
+      "algo": "randomx_grft",
+      "dualAlgo": false,
+      "description": "Random variant for GRFT"
+    },
+    {
+      "x": 1,
+      "algo": "randomx_keva",
+      "dualAlgo": false,
+      "description": "RandomX variant for Keva"
+    },
+    {
+      "x": 1,
+      "algo": "randomx_loki",
+      "dualAlgo": false,
+      "description": "RandomX variant for Loki"
+    },
+    {
+      "x": 1,
+      "algo": "randomx_sfx",
+      "dualAlgo": false,
+      "description": "RandomARQ variant for SafeX"
+    },
+    {
+      "x": 1,
+      "algo": "randomx_wow",
+      "dualAlgo": false,
+      "description": "RandomX (WOW)"
+    },
+    {
+      "x": 1,
+      "algo": "randomxeq",
+      "dualAlgo": false,
+      "description": "RandomX variant for Equilibria"
+    },
+    {
+      "x": 1,
+      "algo": "randomxl",
+      "dualAlgo": false,
+      "description": "randomxl"
+    },
+    {
+      "x": 1,
+      "algo": "randomxv2",
+      "dualAlgo": false,
+      "description": "randomxv2"
+    },
+    {
+      "x": 1,
+      "algo": "randomy",
+      "dualAlgo": false,
+      "description": "randomy"
+    },
+    {
+      "x": 1,
+      "algo": "randomyada",
+      "dualAlgo": false,
+      "description": "randomyada"
+    },
+    {
+      "x": 1,
+      "algo": "randomzqvx",
+      "dualAlgo": false,
+      "description": "randomzqvx"
+    },
+    {
+      "x": 1,
+      "algo": "renesis",
+      "dualAlgo": false,
+      "description": "Renesis (RESS)"
+    },
+    {
+      "x": 1,
+      "algo": "rinhash",
+      "dualAlgo": false,
+      "description": "rinhash"
+    },
+    {
+      "x": 1,
+      "algo": "rx2",
+      "dualAlgo": false,
+      "description": "Rx2 (LUX)"
+    },
+    {
+      "x": 1,
+      "algo": "scrypt",
+      "dualAlgo": false,
+      "description": "Scrypt ASIC-mineable (Litecoin, Dogecoin, Feathercoin)"
+    },
+    {
+      "x": 1,
+      "algo": "scrypt_jane",
+      "dualAlgo": false,
+      "description": "Scrypt-jane (Chacha)"
+    },
+    {
+      "x": 1,
+      "algo": "scryptn2",
+      "dualAlgo": false,
+      "description": "scryptn2"
+    },
+    {
+      "x": 1,
+      "algo": "sha256",
+      "dualAlgo": false,
+      "description": "SHA256 *ASIC"
+    },
+    {
+      "x": 1,
+      "algo": "sha256csm",
+      "dualAlgo": false,
+      "description": "Consortium (CSM)"
+    },
+    {
+      "x": 1,
+      "algo": "sha256d",
+      "dualAlgo": false,
+      "description": "SHA256d *ASIC"
+    },
+    {
+      "x": 1,
+      "algo": "sha256d_csd",
+      "dualAlgo": false,
+      "description": "sha256d_csd"
+    },
+    {
+      "x": 1,
+      "algo": "sha256q",
+      "dualAlgo": false,
+      "description": "SHA256q *ASIC"
+    },
+    {
+      "x": 1,
+      "algo": "sha256t",
+      "dualAlgo": false,
+      "description": "SHA256t *ASIC"
+    },
+    {
+      "x": 1,
+      "algo": "sha256ton",
+      "dualAlgo": false,
+      "description": "sha256ton"
+    },
+    {
+      "x": 1,
+      "algo": "sha3d",
+      "dualAlgo": false,
+      "description": "Sha3d (Bsha3, Kylacoin, Yilacoin)"
+    },
+    {
+      "x": 1,
+      "algo": "sha3t",
+      "dualAlgo": false,
+      "description": "sha3t"
+    },
+    {
+      "x": 1,
+      "algo": "sha3x",
+      "dualAlgo": false,
+      "description": "Sha3x (Tari)"
+    },
+    {
+      "x": 1,
+      "algo": "sha512_256d_radiant",
+      "dualAlgo": false,
+      "description": "sha512_256d_radiant (RAD - Radiant)"
+    },
+    {
+      "x": 1,
+      "algo": "sia",
+      "dualAlgo": false,
+      "description": "SIA (Blake2B)"
+    },
+    {
+      "x": 1,
+      "algo": "sib",
+      "dualAlgo": false,
+      "description": "Sibcoin (X11+Streebog)"
+    },
+    {
+      "x": 1,
+      "algo": "sipc",
+      "dualAlgo": false,
+      "description": "Sipc (SIPC)"
+    },
+    {
+      "x": 1,
+      "algo": "skein",
+      "dualAlgo": false,
+      "description": "Skein SHA2 (Skeincoin)"
+    },
+    {
+      "x": 1,
+      "algo": "skein2",
+      "dualAlgo": false,
+      "description": "Double Skein (Woodcoin)"
+    },
+    {
+      "x": 1,
+      "algo": "skunk",
+      "dualAlgo": false,
+      "description": "Skunk (Skein Cube Fugue Streebog)"
+    },
+    {
+      "x": 1,
+      "algo": "sonoa",
+      "dualAlgo": false,
+      "description": "97 hashes based on X17 ones (Sono)"
+    },
+    {
+      "x": 1,
+      "algo": "stellite",
+      "dualAlgo": false,
+      "description": "Cryptonight v3 (Stellite)"
+    },
+    {
+      "x": 1,
+      "algo": "tensority",
+      "dualAlgo": false,
+      "description": "Tensority (BTM)"
+    },
+    {
+      "x": 1,
+      "algo": "tethashv1",
+      "dualAlgo": false,
+      "description": "Teo version of Ethash (TEO)"
+    },
+    {
+      "x": 1,
+      "algo": "timetravel",
+      "dualAlgo": false,
+      "description": "TimeTravel (Machinecoin permuted x8)"
+    },
+    {
+      "x": 1,
+      "algo": "timetravel10",
+      "dualAlgo": false,
+      "description": "TimeTravel10 (BTX)"
+    },
+    {
+      "x": 1,
+      "algo": "ton",
+      "dualAlgo": false,
+      "description": "Ton (sha256)"
+    },
+    {
+      "x": 1,
+      "algo": "trb",
+      "dualAlgo": false,
+      "description": "Tellor (TRB)"
+    },
+    {
+      "x": 1,
+      "algo": "tribus",
+      "dualAlgo": false,
+      "description": "Tribus (Denarius)"
+    },
+    {
+      "x": 1,
+      "algo": "trtl_chukwa2",
+      "dualAlgo": false,
+      "description": "Chukwa2 (Tutlecoin)"
+    },
+    {
+      "x": 1,
+      "algo": "ubqhash",
+      "dualAlgo": false,
+      "description": "Ubqhash (UBQ)"
+    },
+    {
+      "x": 1,
+      "algo": "vds",
+      "dualAlgo": false,
+      "description": "Equihash + Scrypt VDS"
+    },
+    {
+      "x": 1,
+      "algo": "vecnohash",
+      "dualAlgo": false,
+      "description": "vecnohash"
+    },
+    {
+      "x": 1,
+      "algo": "verthash",
+      "dualAlgo": false,
+      "description": "Verthash (VTC)"
+    },
+    {
+      "x": 1,
+      "algo": "verushash",
+      "dualAlgo": false,
+      "description": "verushash"
+    },
+    {
+      "x": 1,
+      "algo": "vprogpow",
+      "dualAlgo": false,
+      "description": "VProgPoW (VeriBlock)"
+    },
+    {
+      "x": 1,
+      "algo": "whirlpool",
+      "dualAlgo": false,
+      "description": "Whirlpool algo"
+    },
+    {
+      "x": 1,
+      "algo": "wildkeccak",
+      "dualAlgo": false,
+      "description": "WildKeccak (Boolberry)"
+    },
+    {
+      "x": 1,
+      "algo": "woodcoin",
+      "dualAlgo": false,
+      "description": "Woodcoin"
+    },
+    {
+      "x": 1,
+      "algo": "x11",
+      "dualAlgo": false,
+      "description": "X11 (DRK, Limecoin) *ASIC"
+    },
+    {
+      "x": 1,
+      "algo": "x12",
+      "dualAlgo": false,
+      "description": "X12 (GCH) *ASIC"
+    },
+    {
+      "x": 1,
+      "algo": "x13",
+      "dualAlgo": false,
+      "description": "X13 (ACE, B2B) *ASIC"
+    },
+    {
+      "x": 1,
+      "algo": "x14",
+      "dualAlgo": false,
+      "description": "X14 (WEB) *ASIC"
+    },
+    {
+      "x": 1,
+      "algo": "x15",
+      "dualAlgo": false,
+      "description": "X15 (RCE) *ASIC"
+    },
+    {
+      "x": 1,
+      "algo": "x16r",
+      "dualAlgo": false,
+      "description": "X16R (Old Raven)"
+    },
+    {
+      "x": 1,
+      "algo": "x16rt",
+      "dualAlgo": false,
+      "description": "X16RT (Veil)"
+    },
+    {
+      "x": 1,
+      "algo": "x16rv2",
+      "dualAlgo": false,
+      "description": "X16Rv2 (New Raven)"
+    },
+    {
+      "x": 1,
+      "algo": "x16s",
+      "dualAlgo": false,
+      "description": "X16S (PGN)"
+    },
+    {
+      "x": 1,
+      "algo": "x17",
+      "dualAlgo": false,
+      "description": "X17 (XVG)"
+    },
+    {
+      "x": 1,
+      "algo": "x18",
+      "dualAlgo": false,
+      "description": "X18"
+    },
+    {
+      "x": 1,
+      "algo": "x20r",
+      "dualAlgo": false,
+      "description": "X20R"
+    },
+    {
+      "x": 1,
+      "algo": "x21s",
+      "dualAlgo": false,
+      "description": "X21S (RPG)"
+    },
+    {
+      "x": 1,
+      "algo": "x22i",
+      "dualAlgo": false,
+      "description": "X22i (old SUQA)"
+    },
+    {
+      "x": 1,
+      "algo": "x25x",
+      "dualAlgo": false,
+      "description": "X25X (SUQA/SIN)"
+    },
+    {
+      "x": 1,
+      "algo": "x33",
+      "dualAlgo": false,
+      "description": "x33"
+    },
+    {
+      "x": 1,
+      "algo": "xdag",
+      "dualAlgo": false,
+      "description": "Xdag (Dagger)"
+    },
+    {
+      "x": 1,
+      "algo": "xelishash",
+      "dualAlgo": false,
+      "description": "Xelishash (XEL)"
+    },
+    {
+      "x": 1,
+      "algo": "xelishashv2",
+      "dualAlgo": false,
+      "description": "Xelishash v2 (XEL)"
+    },
+    {
+      "x": 1,
+      "algo": "xelishashv3",
+      "dualAlgo": false,
+      "description": "xelishashv3"
+    },
+    {
+      "x": 1,
+      "algo": "xevan",
+      "dualAlgo": false,
+      "description": "Xevan (Transend)"
+    },
+    {
+      "x": 1,
+      "algo": "xhash",
+      "dualAlgo": false,
+      "description": "xhash"
+    },
+    {
+      "x": 1,
+      "algo": "yescrypt",
+      "dualAlgo": false,
+      "description": "Yescrypt (UIS, MYR)"
+    },
+    {
+      "x": 1,
+      "algo": "yescryptr16",
+      "dualAlgo": false,
+      "description": "Yescryptr16 (Yenten - YTN)"
+    },
+    {
+      "x": 1,
+      "algo": "yescryptr16v2",
+      "dualAlgo": false,
+      "description": "Yescryptr16v2 (PPTP)"
+    },
+    {
+      "x": 1,
+      "algo": "yescryptr16v2glt",
+      "dualAlgo": false,
+      "description": "Yescryptr16v2glt (GlobalToken - GLT)"
+    },
+    {
+      "x": 1,
+      "algo": "yescryptr24",
+      "dualAlgo": false,
+      "description": "Yescryptr24 (JagaricoinR - JAGAR)"
+    },
+    {
+      "x": 1,
+      "algo": "yescryptr24glt",
+      "dualAlgo": false,
+      "description": "Yescryptr24glt (GlobalToken - GLT)"
+    },
+    {
+      "x": 1,
+      "algo": "yescryptr32",
+      "dualAlgo": false,
+      "description": "Yescryptr32 (WAVI)"
+    },
+    {
+      "x": 1,
+      "algo": "yescryptr32glt",
+      "dualAlgo": false,
+      "description": "Yescryptr32glt (GlobalToken - GLT)"
+    },
+    {
+      "x": 1,
+      "algo": "yescryptr8",
+      "dualAlgo": false,
+      "description": "Yescryptr8 (BitZeny - ZNY)"
+    },
+    {
+      "x": 1,
+      "algo": "yescryptr8g",
+      "dualAlgo": false,
+      "description": "Yescryptr8g (KOTO)"
+    },
+    {
+      "x": 1,
+      "algo": "yescryptr8glt",
+      "dualAlgo": false,
+      "description": "Yescryptr8glt (GlobalToken - GLT)"
+    },
+    {
+      "x": 1,
+      "algo": "yespower",
+      "dualAlgo": false,
+      "description": "yespower (Cryply)"
+    },
+    {
+      "x": 1,
+      "algo": "yespower2b",
+      "dualAlgo": false,
+      "description": "yespower2b"
+    },
+    {
+      "x": 1,
+      "algo": "yespowerIC",
+      "dualAlgo": false,
+      "description": "IsotopeC (ISO)"
+    },
+    {
+      "x": 1,
+      "algo": "yespowerITC",
+      "dualAlgo": false,
+      "description": "Intercoin (ITC)"
+    },
+    {
+      "x": 1,
+      "algo": "yespowerLITB",
+      "dualAlgo": false,
+      "description": "yespowerLITB (LightBit - LITB)"
+    },
+    {
+      "x": 1,
+      "algo": "yespowerLTNCG",
+      "dualAlgo": false,
+      "description": "yespowerLTNCG (LightningCash-Gold v3)"
+    },
+    {
+      "x": 1,
+      "algo": "yespowerRES",
+      "dualAlgo": false,
+      "description": "yespowerRES (Resistance - RES)"
+    },
+    {
+      "x": 1,
+      "algo": "yespowerSUGAR",
+      "dualAlgo": false,
+      "description": "yespowerSUGAR (SugarChain)"
+    },
+    {
+      "x": 1,
+      "algo": "yespowerURX",
+      "dualAlgo": false,
+      "description": "yespowerURX (new Uranium-X)"
+    },
+    {
+      "x": 1,
+      "algo": "yespoweradvc",
+      "dualAlgo": false,
+      "description": "yespoweradvc"
+    },
+    {
+      "x": 1,
+      "algo": "yespowerarwn",
+      "dualAlgo": false,
+      "description": "yespowerarwn"
+    },
+    {
+      "x": 1,
+      "algo": "yespowereqpay",
+      "dualAlgo": false,
+      "description": "yespowereqpay"
+    },
+    {
+      "x": 1,
+      "algo": "yespowerinterchained",
+      "dualAlgo": false,
+      "description": "yespowerinterchained"
+    },
+    {
+      "x": 1,
+      "algo": "yespoweriots",
+      "dualAlgo": false,
+      "description": "yespoweriots"
+    },
+    {
+      "x": 1,
+      "algo": "yespowerltncg",
+      "dualAlgo": false,
+      "description": "yespowerltncg"
+    },
+    {
+      "x": 1,
+      "algo": "yespowermgpc",
+      "dualAlgo": false,
+      "description": "Yespowermgpc"
+    },
+    {
+      "x": 1,
+      "algo": "yespowermwc",
+      "dualAlgo": false,
+      "description": "yespowermwc"
+    },
+    {
+      "x": 1,
+      "algo": "yespowerr16",
+      "dualAlgo": false,
+      "description": "yespowerr16 (new yenten)"
+    },
+    {
+      "x": 1,
+      "algo": "yespowersugar",
+      "dualAlgo": false,
+      "description": "yespowersugar"
+    },
+    {
+      "x": 1,
+      "algo": "yespowertide",
+      "dualAlgo": false,
+      "description": "yespowertide"
+    },
+    {
+      "x": 1,
+      "algo": "yespowerurx",
+      "dualAlgo": false,
+      "description": "yespowerurx"
+    },
+    {
+      "x": 1000000,
+      "algo": "zil",
+      "dualAlgo": false,
+      "description": "Ziliqa"
+    },
+    {
+      "x": 1,
+      "algo": "zksnark",
+      "dualAlgo": false,
+      "description": "zkSnark (ALEO)"
+    }
+  ]
+}
