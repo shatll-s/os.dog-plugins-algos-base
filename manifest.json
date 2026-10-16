@@ -329,6 +329,12 @@
     },
     {
       "x": 1,
+      "algo": "cmfd",
+      "dualAlgo": false,
+      "description": "cmfd"
+    },
+    {
+      "x": 1,
       "algo": "cn-heavy/0",
       "dualAlgo": false,
       "description": "cn-heavy/0"
@@ -1982,6 +1988,12 @@
       "algo": "vecnohash",
       "dualAlgo": false,
       "description": "vecnohash"
+    },
+    {
+      "x": 1,
+      "algo": "vela",
+      "dualAlgo": false,
+      "description": "vela"
     },
     {
       "x": 1,
