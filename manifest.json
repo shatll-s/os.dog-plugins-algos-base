@@ -1853,6 +1853,12 @@
     },
     {
       "x": 1,
+      "algo": "sha3_256",
+      "dualAlgo": false,
+      "description": "sha3_256"
+    },
+    {
+      "x": 1,
       "algo": "sha3d",
       "dualAlgo": false,
       "description": "Sha3d (Bsha3, Kylacoin, Yilacoin)"
