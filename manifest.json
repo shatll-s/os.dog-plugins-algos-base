@@ -257,6 +257,12 @@
     },
     {
       "x": 1,
+      "algo": "blake2b_prox",
+      "dualAlgo": false,
+      "description": "Blake2b (Proxima)"
+    },
+    {
+      "x": 1,
       "algo": "blake2s",
       "dualAlgo": false,
       "description": "Blake2S (Kadena)"
